@@ -1,0 +1,63 @@
+1.
+d) Este realizare deoarece Produs este o interfata si clasa carte e o compozitie de obiecte de tip capitol si nu invers.
+
+2.
+f) clasa revista implementeaza interfata produs.
+
+--c) corect. dar sunt capitole si nu articole?
+3.
+celelalte au implementare gresita sau sunt private/public cand nu trebuie.
+c)
+g)
+
+-- a) corect. Relatie de asociere cu 1-1. Daca nu avem 1-1 care e diferenta in implementare cod?
+
+4.
+usor
+b)
+d)
+f)
+
+5.
+c) Nu am inteles.
+
+-- b) corect
+
+6.
+e) materie contine o colectie de obiecte deoarece este relatie de compozitie.
+a) materie-curs compozitie.
+
+-- d) corect. defineste un agregat de tip obiecte ? dar relatia este de compozitie
+
+7.
+c) Materie cu laborator. clasa materie contine o colectie de laboratoare. Atributul trebuie sa fie initializat.
+
+8.
+d) Deoarece este o relatie de tip compozit-componenta si nu una de agregare ca si la b). Celelalte sunt gresite.
+
+9.
+e) implementeaza corect interfata produs
+b) -pret:float implementat corect in java
+g) +getPret() implementat din interfata
+h) +cumpara() implementat din interfata (X - gresit. cumpara() o carte nu un Produs)
+i) compozitia de obiecte de tip Capitol
+
+10.
+a) Deoarece clasa nu este scris cu font italic aceasta nu este abstracta. Doar metoda este abstracta.
+
+--- b) e corect, dar nu are font italic ?
+
+11.
+a) Deoarece este o mostenire si angajat este o alta clasa.
+d) Deoarece trebuie implementata.
+
+12.
+c) Ce este cu underline este static.
+d) Underline - metoda statica implementata
+e) Asociere cu clasa client.
+
+13.
+e) Proiect-Codsursa
+c) Relatie de agregare si nu de compozitie intre student-proiect. Relatie de compozitie intre proiect si celalate doua clase
+
+
